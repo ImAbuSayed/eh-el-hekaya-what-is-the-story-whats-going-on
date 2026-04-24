@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي ناداك في الليل
+> روحي معاك والنجوم دليل
+> في صمت الشوق انا دايب فيك
+> إيه الحكاية عيني تبغيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
