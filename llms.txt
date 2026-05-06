@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/eh-el-hekaya-what-is-the-story-whats-going-on/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Sync Licensing for Eh El Hekaya – What is the story? (What's going on?)](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
