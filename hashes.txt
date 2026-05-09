@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Eh El Hekaya – What is the story? (What's going on?)
+
+This log tracks the cryptographic history and versioning for the song **Eh El Hekaya – What is the story? (What's going on?)** (eh-el-hekaya-what-is-the-story-whats-going-on).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:09:15.480210 | `v1` | `0229fda245299185e1acbdc04a2e01be37ec2361adb3cc1c8c0109165857f47d` | `8ee5c813ef16524bd455e7ce30410710142fa3ce4ff4f8a1be80de2e2125cf00` | `2026-05-09_eh-el-hekaya-what-is-the-story-whats-going-on-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
